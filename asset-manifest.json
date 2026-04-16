@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/munamii-cakery/static/css/main.cdde3933.css",
-    "main.js": "/munamii-cakery/static/js/main.9a5da99b.js",
+    "main.js": "/munamii-cakery/static/js/main.b4218d47.js",
     "static/media/hero.png": "/munamii-cakery/static/media/hero.b03495f0e1bcaec00f0d.png",
     "static/media/logo.svg": "/munamii-cakery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/munamii-cakery/index.html",
     "main.cdde3933.css.map": "/munamii-cakery/static/css/main.cdde3933.css.map",
-    "main.9a5da99b.js.map": "/munamii-cakery/static/js/main.9a5da99b.js.map"
+    "main.b4218d47.js.map": "/munamii-cakery/static/js/main.b4218d47.js.map"
   },
   "entrypoints": [
     "static/css/main.cdde3933.css",
-    "static/js/main.9a5da99b.js"
+    "static/js/main.b4218d47.js"
   ]
 }

@@ -1,0 +1,29 @@
+.Cards_old {
+  display: flex;
+  flex-wrap: wrap;
+  /* gap: 6.5%; */
+  /* gap: 6%; */
+  /* justify-content: space-evenly;
+  align-content: space-evenly; */
+  /* justify-content: space-between; */
+  /* align-items: flex-start;
+  justify-items: flex-start;
+  align-content: flex-start; */
+}
+
+.Cards_old2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  /* justify-content: space-between; */
+
+  /* justify-content: flex-start;
+  gap: 16px; */ /* modern and clean */
+  /* gap: 6%; */
+}
+
+.Cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 16px;
+}

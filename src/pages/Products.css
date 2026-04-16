@@ -1,0 +1,18 @@
+.Products {
+    flex: 1;
+    padding: 1em;
+}
+
+.ProductHeader {
+    margin: 1em 0;
+}
+
+.ProductHeader:first-child {
+    margin-top: 0;
+}
+
+.ProductHeader {
+    color: #e785ae;
+    text-align: center;
+    font-size: 1.5em;
+}

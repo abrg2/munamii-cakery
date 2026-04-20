@@ -17,7 +17,7 @@ export default function App() {
    *       and reportedly supports less functions that elements?
    */
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Header />
         <Routes>
